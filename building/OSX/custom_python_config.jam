@@ -1,0 +1,5 @@
+using python : 3.9
+ : "/Users/dillonbailey/DEV/omoonray_1.4.00/osx_fork/openmoonray/building/OSX/install/3.9.12-r3/bin/python3"
+ : "/Users/dillonbailey/DEV/omoonray_1.4.00/osx_fork/openmoonray/building/OSX/install/3.9.12-r3/include/python3.9"
+ : "/Users/dillonbailey/DEV/omoonray_1.4.00/osx_fork/openmoonray/building/OSX/install/3.9.12-r3/lib"
+;
